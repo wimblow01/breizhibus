@@ -46,4 +46,4 @@ Pour la dernière page j'ai mis un menu déroulant pour sélectionner le bus pou
 
 ## Difficulés rencontrées
 
-J'ai rencontré pas mal de difficultés pour l'interface graphique car je n'en avais pas vraiment fait avant. Heureusement j'ai pu compter sur certains de mes collègues; je voudrais donc remercier Thomas, Julien et Pereg.
+J'ai rencontré pas mal de difficultés pour l'interface graphique car je n'en avais pas vraiment fait avant. Heureusement j'ai pu compter sur certains de mes collègues; je voudrais donc remercier Thomas, Pereg et Julien.
